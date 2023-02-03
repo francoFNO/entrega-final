@@ -2,11 +2,14 @@
 
 .title{
     text-align: center;
-}
+} */
 
-.card{
+ .card{
     border-width: 2px;
-}
-#cards{
+} 
+ #cards{
     margin-left: 300px;
+}
+.btn-danger{
+    margin-left: 43%;
 }

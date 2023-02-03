@@ -67,7 +67,6 @@ const mostrarCarrito = () =>{
     templateCarrito.querySelector("th").textContent = producto.id
     templateCarrito.querySelectorAll("td")[0].textContent= producto.nombre
     templateCarrito.querySelectorAll("td")[1].textContent= producto.cantidad
-    // templateCarrito.querySelector(".btn-info").dataset.id =producto.id
     templateCarrito.querySelector("span").textContent=producto.cantidad * producto.precio
 
     const clone= templateCarrito.cloneNode(true)
