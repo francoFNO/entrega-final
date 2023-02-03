@@ -1,0 +1,28 @@
+[
+    {
+       "id":1,
+       "nombre":"fifa",
+       "precio":9000,
+       "thumbnailUrl":"https://www.pexels.com/es-es/foto/flatlay-de-equipos-de-juego-3165335/"
+    },
+    {
+       "id":2,
+       "nombre":"pes",
+       "precio":6000,
+       "img":"pes.jpg"
+    },
+    {
+       "id":3,
+       "nombre":"uncharted",
+       "precio":5000,
+       "img":"uncharted.jpg"
+    },
+    {
+       "id":4,
+       "nombre":"dishonored",
+       "precio":4000,
+       "img":"dishonored.jpg"
+    }
+    
+ ]
+ 

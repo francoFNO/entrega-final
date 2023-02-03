@@ -1,0 +1,38 @@
+.img1{
+    width: 20%;
+    margin-left: 40%;
+}
+.img2{
+    width: 30%;
+    margin-left: 35%;
+}
+.img3{
+    width: 20%;
+    margin-left: 40%;
+}
+.img4{
+    width: 20%;
+    margin-left: 40%;
+}
+.tituImg{
+    text-align: center;
+    
+}
+.body{
+    text-align: center;
+}
+.tituCarrito{
+    padding-left: 5%;
+}
+.btn {
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.jue{
+    font-weight: bold;
+}
+#productos{
+    margin-left: 2%;
+}
