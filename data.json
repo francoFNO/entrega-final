@@ -1,27 +1,27 @@
 [
     {
        "id":1,
-       "nombre":"fifa",
+       "nombre":"Fifa",
        "precio":9000,
-       "thumbnailUrl":"https://www.pexels.com/es-es/foto/flatlay-de-equipos-de-juego-3165335/"
+       "thumbnailURL":"https://www.infobae.com/new-resizer/C7fXKFLfLkD9CTWcDTKlPIZfzaw=/992x558/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/2SRVZDMIEBDFRAS4WDAEPEZ7OI.jpeg"
     },
     {
        "id":2,
-       "nombre":"pes",
+       "nombre":"Pes",
        "precio":6000,
-       "img":"pes.jpg"
+       "thumbnailURL":"https://www.konami.com/products_master/eu_publish/pes2020/eu/es/images/pes2020-hp-messi-ronaldinho-02.jpg"
     },
     {
        "id":3,
-       "nombre":"uncharted",
+       "nombre":"Uncharted",
        "precio":5000,
-       "img":"uncharted.jpg"
+       "thumbnailURL":"https://gmedia.playstation.com/is/image/SIEPDC/Uncharted-4-keyart-01-en-16jun21?$1600px$"
     },
     {
        "id":4,
-       "nombre":"dishonored",
+       "nombre":"Dishonored",
        "precio":4000,
-       "img":"dishonored.jpg"
+       "thumbnailURL":"https://assets2.rockpapershotgun.com/bad-disguises-in-games-9-dishonored-corvo.jpg/BROK/resize/880%3E/format/jpg/quality/80/bad-disguises-in-games-9-dishonored-corvo.jpg"
     }
     
  ]

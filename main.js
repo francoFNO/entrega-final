@@ -29,11 +29,11 @@ cards.addEventListener("click",e=> {
   addCarrito(e)
 })
 const fotoProd= data => {
-//  console.log(data);
+  // console.log(data);
   data.forEach(productos => {
     templateCard.querySelector("h5").textContent=productos.nombre
     templateCard.querySelector("p").textContent=productos.precio
-    // templateCard.querySelector("img").setAttribute("src",productos.thumbnailUrl)
+     templateCard.querySelector("img").setAttribute("src",productos.thumbnailURL)
     templateCard.querySelector(".btn-dark").dataset.id=productos.id
     const clone=templateCard.cloneNode(true)
     fragment.appendChild(clone)
